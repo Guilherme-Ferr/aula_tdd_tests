@@ -11,3 +11,5 @@
 !/uploads/visits/.gitkeep
 
 /build
+
+/__tests__/coverage
