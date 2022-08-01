@@ -1,0 +1,13 @@
+/node_modules
+
+/.env
+
+/.env.test
+
+/log/error/error.log
+
+/uploads/visits/*
+
+!/uploads/visits/.gitkeep
+
+/build
