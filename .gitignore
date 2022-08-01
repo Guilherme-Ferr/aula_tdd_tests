@@ -4,12 +4,7 @@
 
 /.env.test
 
-/log/error/error.log
-
-/uploads/visits/*
-
-!/uploads/visits/.gitkeep
-
 /build
 
 /__tests__/coverage
+
